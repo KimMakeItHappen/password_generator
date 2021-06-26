@@ -103,7 +103,7 @@ function generatePassword() {
     else if (confirmLowercase) {
         choices = alpha;
     }
-    // Created space variable to fill uppercase conversion
+    
     else if (confirmUppercase) {
         choices = space.concat(alpha2);
     };
@@ -134,9 +134,7 @@ var copy = document.querySelector("#copy");
 copy.addEventListener("click", function () {
     copyPassword();
 });
-// This copies the password value - works
-// Code example demonstrated in a youtube video: 
-// Source: https://youtu.be/9sT03jEwcaw
+
 function copyPassword() {
     document.getElementById("password").select();
     document.execCommand("Copy");
