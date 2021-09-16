@@ -31,4 +31,4 @@ Mock-Up
 The following image shows the web application's appearance and functionality:
 ![Screen Shot 2021-09-16 at 6 03 10 PM](https://user-images.githubusercontent.com/80864786/133691795-7272b4df-68f8-4933-ba24-e735d7947eb1.png)
 ![Screen Shot 2021-09-16 at 6 06 19 PM](https://user-images.githubusercontent.com/80864786/133691952-af07e5e6-adfc-4a30-a09c-5d220bb66a83.png)
-https://user-images.githubusercontent.com/80864786/133692107-4d911501-c401-4591-8f37-75a48441ed03.mov
+https://youtu.be/sBAXdg8RMHY
